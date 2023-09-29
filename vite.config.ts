@@ -6,6 +6,6 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['@digi/arbetsformedlingen'],
   },
-  base: '/case-f-r-arbetsf-rmedlingen-och-jobtech-alltitsu/',
+  // base: '/',
   plugins: [react()],
 });
